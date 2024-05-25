@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_experimental
+langchain_openai
+python-dotenv
+tortoise
+pg8000
+sqlitedb
+llama-index-llms-ollama
